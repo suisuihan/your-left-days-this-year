@@ -10,6 +10,9 @@ use Pillow lib to draw picture, so you need to:
 pip install Pillow
 ~~~
 
+## Looks like:
+![your will hate author finally picture](https://github.com/suisuihan/your-left-days-this-year/blob/master/resource/be_careful_your_time.png)
+
 ## Maybe you want to do ... and just do it:
 * change fuction ScreenPicture.create_picture parameters when your screen is not 2560 * 1600
 * change var picture_dir to define your picture path
@@ -17,7 +20,7 @@ pip install Pillow
 * change what to disploy
 
 ## Todo(or never):
-* I don't know any knowledge about colors, so I pick some RGB info from (clickthis)[http://b.xiumi.us/board/v5/251mJ/23381856], it is a bad method but it works…… Hope for your suggestion
+* I don't know any knowledge about colors, so I pick some RGB info from [clickthis](http://b.xiumi.us/board/v5/251mJ/23381856), it is a bad method but it works…… Hope for your suggestion
 * It does not compare the color of content you want to disploy with background, so sometime it looks ugly
 
 
