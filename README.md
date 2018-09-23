@@ -27,6 +27,6 @@ The default picture directory is ./your-left-days-this-year/pictures.
 
 ## Todo(or never):
 * I don't know any knowledge about colors, so I pick some RGB info from [clickthis](http://b.xiumi.us/board/v5/251mJ/23381856), it is a bad method but it works…… Hope for your suggestion
-* It does not compare the color of content you want to disploy with background, so sometime it looks ugly
+* It does not compare the color of content you want to display with background, so sometime it looks ugly
 
 
