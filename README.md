@@ -18,7 +18,7 @@ The default picture directory is ./your-left-days-this-year/pictures.
 * If want to set the picture as screen protect picture, click "系统偏好设置 -> "桌面与屏幕保护程序", choose one style you like
 * If want to create a new picture each day automaticlly, maybe your can make it with "crontab -e", my cronjob file is like:
 ~~~
-*/5 * * * * /Users/xxxxx/.pyenv/shims/python /Users/xxxxx/code/macos-lock-screen-picture/screen_picture.py
+*/5 * * * * /Users/xxxxx/.pyenv/shims/python /Users/xxxxx/code/your-left-days-this-year/screen_picture.py
 ~~~
 
 ## Maybe you want to do ... and just do it:
